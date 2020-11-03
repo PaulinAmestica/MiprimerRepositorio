@@ -4,3 +4,4 @@ primer repositorio en github, prueba de programa
 estudiando big data 
 ### no me resulta en la app del computador
 esperemos y ahora se guarde
+y ahora
